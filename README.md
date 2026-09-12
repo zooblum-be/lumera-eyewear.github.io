@@ -30,3 +30,7 @@ Settings → Pages → Deploy from a branch → main → / (root)
 
 ## Notes
 Product names, prices, ratings, reviews and merchandising content may be demo content. Review real product specifications, prescription workflows, third-party assets and commercial policies before launch.
+
+
+## V3 Image Fix
+The product catalog now uses standalone frame photography cropped from a clean eyewear gallery, with no embedded product-card text, buttons, ratings, or page UI inside the product image itself. Product detail pages use the same local assets.
